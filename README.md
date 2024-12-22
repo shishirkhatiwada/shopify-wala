@@ -134,19 +134,3 @@ Open your browser and navigate to `http://localhost:3000` to view the applicatio
 
 ---
 
-## Contributions
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-For any inquiries or issues, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
-
